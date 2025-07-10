@@ -1,0 +1,11 @@
+# Sass installation on macOS (with Node.js)
+
+1. Opened the terminal on my Mac.
+2. Navigated into my cloned repository:
+   $ cd alx-intermediate-frontend
+3. Created a new directory for the Sass project:
+   $ mkdir 0x03-sass_scss
+4. Navigated into the new directory:
+   $ cd 0x03-sass_scss
+5. Installed Sass using npm:
+   $ npm install sass@1.63.4 --save-dev
